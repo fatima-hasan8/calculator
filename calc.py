@@ -14,7 +14,7 @@ print("10 * 2 =", multiply(10, 5))
 
 def divide(a, b):
     if b == 0:
-        return "Error! Division by zero."
+        return "Error! Division by zerooooooo"
     return a / b
 
 print("10 / 2 =", divide(10, 2))
